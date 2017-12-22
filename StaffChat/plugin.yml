@@ -1,0 +1,7 @@
+main: com.cyberGaming424.main.StaffChat
+version: 1.0
+name: StaffChat
+
+commands:
+  StaffChatOn:
+      description: Turns on StaffChat.
